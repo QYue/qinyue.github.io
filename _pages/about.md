@@ -14,3 +14,5 @@ specifically on robustness, privacy, and their interconnections. My research int
 understand critical security and privacy issues in cybersystems or AI systems through data-oriented anal-
 ysis and to design and develop innovative solutions to address these issues with robust, private guarantees
 for different real-world applications.
+
+You can find my CV here: [Yue Qin's CV](../assets/CV_Yue_Qin_202305.pdf)
