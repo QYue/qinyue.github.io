@@ -91,5 +91,5 @@ _In Proceedings of USENIX Security Symposium (Security), 2019._ (Acceptance rate
 
 [Asynchronous Bidirectional Decoding for Neural Machine Translation](https://dl.acm.org/doi/pdf/10.5555/3504035.3504734).   
 Xiangwen Zhang, Jinsong Su, **Yue Qin**, Yang Liu, Rongrong Ji, and Hongji Wang.
-_In Proceedings of Association for the Advancement of Artificial Intelligence (AAAI), 2018_. (Acceptance rate: 16%). 
+_In Proceedings of Association for the Advancement of Artificial Intelligence (AAAI), 2018_. (Acceptance rate: 24.7%). 
 [[code](https://github.com/DeepLearnXMU/ABD-NMT)]
