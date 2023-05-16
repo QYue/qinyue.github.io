@@ -63,7 +63,7 @@ Zhuoqun Fu, Mingxuan Liu, **Yue Qin**, Jia Zhang, Yuan Zou, Qilei Yin, Qi Li, Ha
 _In Proceedings of the 25th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2022._ (Acceptance rate: 25.2%)
 
 [ValCAT: Variable-Length Contextualized Adversarial Transformations Using Encoder-Decoder Language Model](https://aclanthology.org/2022.naacl-main.125.pdf).   
-Chuyun Deng, Mingxuan Liu, $\color[RGB]{125,185,222}{\text{Yue Qin}}$, Jia Zhang, Hai-Xin Duan, Donghong Sun.
+Chuyun Deng, Mingxuan Liu, **Yue Qin**, Jia Zhang, Hai-Xin Duan, Donghong Sun.
 _In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022._ (Acceptance rate: 21%).  
 [[code](https://github.com/linerxliner/valcat)]
 
