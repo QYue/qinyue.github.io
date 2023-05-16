@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Xiamen University, 2018
+* Ph.D in Indiana University Bloomington, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2018 - Now: Research Assistant
+  * Indiana University Bloomington
+  * Supervisor: Xiaojing Liao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Oct. 2017 - Jan. 2018: Front-end Engineer Intern
+  * Tech Valley, Xiamen Big Data Education & Research Center, China
+ 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Service 
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Review Service | Served as a sub-reviewer
+
+  * IEEE Symposium on Security and Privacy (Oakland), 2020, 2021, 2022, 2024.
+
+  * ACM Conference on Computer and Communications Security (CCS), 2019.
+
+  * Network and Distributed System Security Symposium (NDSS), 2019, 2020, 2021, 2022
+
+  * Annual Computer Security Applications Conference (ACSAC), 2019, 2020, 2021.
+
+  * IEEE Transactions on Dependable and Secure Computing (TDSC), 2020, 2021, 2022.
+
+* Review Service | Served as a reviewer
+
+  * Annual Computer Security Applications Conference (ACSAC) 2022, Articact Evaluation (AE).
+
+  * Information Processing and Management, 2023.
