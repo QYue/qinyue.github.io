@@ -27,7 +27,8 @@ Work experience
   
 Service 
 ======
-* Review Service | Served as a sub-reviewer
+* Review Service 
+  > Served as a sub-reviewer
 
   * IEEE Symposium on Security and Privacy (Oakland), 2020, 2021, 2022, 2024.
 
@@ -39,7 +40,8 @@ Service
 
   * IEEE Transactions on Dependable and Secure Computing (TDSC), 2020, 2021, 2022.
 
-* Review Service | Served as a reviewer
+* Review Service 
+  > Served as a reviewer
 
   * Annual Computer Security Applications Conference (ACSAC) 2022, Articact Evaluation (AE).
 
