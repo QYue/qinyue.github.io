@@ -8,8 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student under the supervision of Professor [Xiaojing Liao](https://www.xiaojingliao.com/). My research interests include data-driven security and privacy with a focus on cybercrime and threat intelligence gathering, as well as trustworthy machine learning, especially on robustness, privacy, and their interconnections. 
-More specifically, my research interests are to discover and understand critical security and privacy issues in cybersystems or AI systems through data-oriented analysis and to design and develop innovative solutions to address these issues with robust, private guarantees for different real-world applications.
+I am currently a Ph.D. student under the supervision of Professor [Xiaojing Liao](https://www.xiaojingliao.com/). 
+My primary research interests lie at the intersection of cybersecurity, machine learning, and natural language processing. Specifically, I focus on the following areas:
+
+1. Sociotechnical, with a focus on cybercrime and privacy compliance checks
+2. Trustworthy machine learning, particularly in the realms of robustness, privacy, and their interconnections.
+3. Data-driven privacy and security, with an emphasis on threat intelligence gathering.
+
+My long-term research goal is to discover and understand critical security and privacy issues in cybersystems or AI systems through data-oriented analysis, and to design and develop innovative solutions to address these issues with robust, private guarantees for different real-world applications.
+
 
 You can find my CV here: [Yue Qin's CV](../assets/CV_Yue_Qin_202305.pdf)
 
@@ -17,17 +24,23 @@ You can find my CV here: [Yue Qin's CV](../assets/CV_Yue_Qin_202305.pdf)
 
 ## Recent Research Areas & Interests
 
-- ML security and privacy: [[CCS'21](https://dl.acm.org/doi/abs/10.1145/3460120.3484776)] [[NAACL'22](https://aclanthology.org/2022.naacl-main.125.pdf)]
+- Privacy compliance check [[Usenix'23](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf)]
+  
+- AI security and privacy: [[CCS'21](https://dl.acm.org/doi/abs/10.1145/3460120.3484776)] [[NAACL'22](https://aclanthology.org/2022.naacl-main.125.pdf)]
 
-- Threat intelligence gathering:[[NDSS'20](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23071-paper.pdf)] [[Usenix'19](https://www.usenix.org/system/files/sec19-chen-yi.pdf)]
+- Cybercrime: [[NDSS'20](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23071-paper.pdf)]
 
-- Network security and privacy: [[Raid'22](https://dl.acm.org/doi/pdf/10.1145/3545948.3545983)]
+- Threat intelligence gathering: [[Usenix'19](https://www.usenix.org/system/files/sec19-chen-yi.pdf)] [[Raid'22](https://dl.acm.org/doi/pdf/10.1145/3545948.3545983)]
+
+
  
 
 
 ---
 ## News
+- (08/24/2023) [Lalaine](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf) has been selected for showcasing in the 2023 NSA CAE-R Research Symposium.
 - (05/09/2023) Two papers were accepted by CCS'23.
+- (02/12/2023) One paper was accepted by USENIX Security'23.
 - (11/17/2021) One paper about classifier with global robustness properties was accepted by CCS'2021 and won Best Paper Award runner-up.
 - (10/06/2019) One paper about threat intelligence gathering via chatting with cybercriminals was accepted by NDSS'20.
 - (05/24/2019) One paper was accepted by USENIX Security'19.
@@ -48,9 +61,9 @@ Stolen Risks of Models with Security Properties.
 _To appear in Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate: ??%) 
 
 
-Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels at Scale.  
+[Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels at Scale.](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf)
 Yue Xiao, Zhengyi Li, **Yue Qin**, Xiaolong Bai, Jiale Guan, Xiaojing Liao, Luyi Xing.
-_To appear in Proceedings of USENIX Security Symposium (Security), 2023._ (Acceptance rate: ??%)
+_In Proceedings of USENIX Security Symposium (Security), 2023._ (Acceptance rate: 29%)
 
 - 2022
 
