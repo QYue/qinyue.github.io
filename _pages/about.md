@@ -37,6 +37,7 @@ You can find my CV here: [Yue Qin's CV](../assets/CV_Yue_Qin_2023.10.5.pdf)
 
 ---
 ## News
+- (10/09/2023) One paper was accepted by EMNLP'23.
 - (08/24/2023) [Lalaine](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf) has been selected for showcasing in the 2023 NSA CAE-R Research Symposium.
 - (05/09/2023) Two papers were accepted by CCS'23.
 - (02/12/2023) One paper was accepted by USENIX Security'23.
