@@ -26,14 +26,13 @@ You can find my CV here: [Yue Qin's CV](../assets/CV_Yue_Qin_2023.10.5.pdf)
 
 - Privacy compliance check [[Usenix'23](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf)]
   
-- AI security and privacy: [[CCS'21](https://dl.acm.org/doi/abs/10.1145/3460120.3484776)] [[NAACL'22](https://aclanthology.org/2022.naacl-main.125.pdf)]
+- AI security and privacy: [[CCS'23B](https://drive.google.com/file/d/1kNlxa2b1cq_slNgI7SkAfHjsBxcUunbX/view?usp=drive_link)][[CCS'21](https://dl.acm.org/doi/abs/10.1145/3460120.3484776)] [[NAACL'22](https://aclanthology.org/2022.naacl-main.125.pdf)]
 
 - Cybercrime: [[NDSS'20](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23071-paper.pdf)]
 
-- Threat intelligence gathering: [[Usenix'19](https://www.usenix.org/system/files/sec19-chen-yi.pdf)] [[Raid'22](https://dl.acm.org/doi/pdf/10.1145/3545948.3545983)]
+- NLP/ML-assisted vulnerability discovery [[Usenix'19](https://www.usenix.org/system/files/sec19-chen-yi.pdf)]  and management [[CCS'23A](https://drive.google.com/file/d/1kiHjzjenMTBh1LrpVIH23vzUmyej_buO/view?usp=drive_link)]
 
-
- 
+- Risk Detection [[Raid'22](https://dl.acm.org/doi/pdf/10.1145/3545948.3545983)] [EMNLP'23]
 
 
 ---
@@ -53,17 +52,20 @@ You can find my CV here: [Yue Qin's CV](../assets/CV_Yue_Qin_2023.10.5.pdf)
 
 Vulnerability Intelligence Alignment via Masked Graph Attention Networks.   
 **Yue Qin**, Yue Xiao, Xiaojing Liao.
-_To appear in Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate: ??%) 
+_To appear in Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate:	19.87%) 
 
 
 Stolen Risks of Models with Security Properties.      
 **Yue Qin**, Zhuoqun Fu, Chuyun Deng, Xiaojing Liao, Jia Zhang, Haixin Duan. 
-_To appear in Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate: ??%) 
+_To appear in Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate:	19.87%) 
 
 
 [Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels at Scale.](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf)
 Yue Xiao, Zhengyi Li, **Yue Qin**, Xiaolong Bai, Jiale Guan, Xiaojing Liao, Luyi Xing.
 _In Proceedings of USENIX Security Symposium (Security), 2023._ (Acceptance rate: 29%)
+
+STINMatch: Semi-Supervised Semantic-Topological Iteration Network for Financial Risk Detection via News Label Diffusion
+Xurui Li*, Yue Qin* (co-first author), Rui Zhu, Tianqianjin Lin, Yongming Fan, Yangyang Kang, Kaisong Song, Fubang Zhap, Changlong Sun, Haixu Tang, Xiaozhong Liu.  _To appear in Proceedings of Empirical Methods in Natural Language Processing (EMNLP) 2023._
 
 - 2022
 
