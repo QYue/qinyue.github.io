@@ -60,13 +60,14 @@ Stolen Risks of Models with Security Properties.
 **Yue Qin**, Zhuoqun Fu, Chuyun Deng, Xiaojing Liao, Jia Zhang, Haixin Duan. 
 _To appear in Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate:	19.87%) 
 
+STINMatch: Semi-Supervised Semantic-Topological Iteration Network for Financial Risk Detection via News Label Diffusion.  
+Xurui Li*, **Yue Qin*** (co-first author), Rui Zhu, Tianqianjin Lin, Yongming Fan, Yangyang Kang, Kaisong Song, Fubang Zhap, Changlong Sun, Haixu Tang, Xiaozhong Liu.  _To appear in Proceedings of Empirical Methods in Natural Language Processing (EMNLP) 2023._
 
-[Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels at Scale.](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf)
+
+[Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels at Scale.](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf)  
 Yue Xiao, Zhengyi Li, **Yue Qin**, Xiaolong Bai, Jiale Guan, Xiaojing Liao, Luyi Xing.
 _In Proceedings of USENIX Security Symposium (Security), 2023._ (Acceptance rate: 29%)
 
-STINMatch: Semi-Supervised Semantic-Topological Iteration Network for Financial Risk Detection via News Label Diffusion
-Xurui Li*, Yue Qin* (co-first author), Rui Zhu, Tianqianjin Lin, Yongming Fan, Yangyang Kang, Kaisong Song, Fubang Zhap, Changlong Sun, Haixu Tang, Xiaozhong Liu.  _To appear in Proceedings of Empirical Methods in Natural Language Processing (EMNLP) 2023._
 
 - 2022
 
