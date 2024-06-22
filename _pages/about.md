@@ -37,6 +37,8 @@ You can find my CV here: [Yue Qin's CV](../assets/CV_Yue_Qin_2023.10.5.pdf)
 
 ---
 ## News
+- (06/22/2024) One paper was accepted by NDSS'25.
+- (04/27/2024) One paper was accepted by CCS'24.
 - (10/09/2023) One paper was accepted by EMNLP'23.
 - (08/24/2023) [Lalaine](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf) has been selected for showcasing in the 2023 NSA CAE-R Research Symposium.
 - (05/09/2023) Two papers were accepted by CCS'23.
@@ -49,16 +51,28 @@ You can find my CV here: [Yue Qin's CV](../assets/CV_Yue_Qin_2023.10.5.pdf)
 
 ## Selected Publications
 
+- 2025
+
+Automated Expansion of Privacy Data Taxonomy for Compliant Data Breach Notification
+**Yue Qin***, Yue Xiao* (co-first author), Xiaojing Liao.
+_To appear in Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS), 2025._ (Acceptance rate:	??%) 
+
+- 2024
+
+Measuring Compliance Implications of Third-party Libraries’ Privacy Label Disclosure Guidelines
+Yue Xiao, Chaoqi Zhang, **Yue Qin**, Fares Fahad S Alharbi, Luyi Xing, Xiaojing Liao.
+_To appear in Proceedings of ACM Conference on Computer and Communications Security (CCS), 2024._ (Acceptance rate:	??%) 
+
 - 2023
 
 Vulnerability Intelligence Alignment via Masked Graph Attention Networks.   
 **Yue Qin**, Yue Xiao, Xiaojing Liao.
-_To appear in Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate:	19.87%) 
+_In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate:	19.87%) 
 
 
 Stolen Risks of Models with Security Properties.      
 **Yue Qin**, Zhuoqun Fu, Chuyun Deng, Xiaojing Liao, Jia Zhang, Haixin Duan. 
-_To appear in Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate:	19.87%) 
+_In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate:	19.87%) 
 
 STINMatch: Semi-Supervised Semantic-Topological Iteration Network for Financial Risk Detection via News Label Diffusion.  
 Xurui Li*, **Yue Qin*** (co-first author), Rui Zhu, Tianqianjin Lin, Yongming Fan, Yangyang Kang, Kaisong Song, Fubang Zhap, Changlong Sun, Haixu Tang, Xiaozhong Liu.  _To appear in Proceedings of Empirical Methods in Natural Language Processing (EMNLP) 2023._
