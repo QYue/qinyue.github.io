@@ -24,7 +24,7 @@ You can find my CV here: [Yue Qin's CV](../assets/CV_Yue_Qin_2023.10.5.pdf)
 
 ## Recent Research Areas & Interests
 
-- Privacy compliance check: [[Usenix'23](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf)][[CCS'24]][[NDSS'25]]
+- Privacy compliance check: [[Usenix'23](https://www.usenix.org/system/files/usenixsecurity23-xiao-yue.pdf)][CCS'24][NDSS'25]
   
 - AI security and privacy: [[CCS'23B](https://drive.google.com/file/d/1kNlxa2b1cq_slNgI7SkAfHjsBxcUunbX/view?usp=drive_link)][[CCS'21](https://dl.acm.org/doi/abs/10.1145/3460120.3484776)] [[NAACL'22](https://aclanthology.org/2022.naacl-main.125.pdf)]
 
@@ -53,13 +53,13 @@ You can find my CV here: [Yue Qin's CV](../assets/CV_Yue_Qin_2023.10.5.pdf)
 
 - 2025
 
-Automated Expansion of Privacy Data Taxonomy for Compliant Data Breach Notification
+Automated Expansion of Privacy Data Taxonomy for Compliant Data Breach Notification.   
 **Yue Qin***, Yue Xiao* (co-first author), Xiaojing Liao.
 _To appear in Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS), 2025._ (Acceptance rate:	??%) 
 
 - 2024
 
-Measuring Compliance Implications of Third-party Libraries’ Privacy Label Disclosure Guidelines
+Measuring Compliance Implications of Third-party Libraries’ Privacy Label Disclosure Guidelines.   
 Yue Xiao, Chaoqi Zhang, **Yue Qin**, Fares Fahad S Alharbi, Luyi Xing, Xiaojing Liao.
 _To appear in Proceedings of ACM Conference on Computer and Communications Security (CCS), 2024._ (Acceptance rate:	??%) 
 
