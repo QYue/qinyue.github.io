@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am honored to be supervised by Professor [Xiaojing Liao](https://www.xiaojingliao.com/). 
+I am an Assistant Professor at the Central University of Finance and Economics. I received my Ph.D. in Computer Science at Indiana University Bloomington, where I had the honor of being supervised by Professor [Xiaojing Liao](https://www.xiaojingliao.com/). 
 My primary research interests lie at the intersection of cybersecurity, machine learning, and natural language processing. Specifically, I focus on the following areas:
 
-1. Sociotechnical, with a focus on cybercrime and privacy compliance checks
+1. Sociotechnical, with a focus on cybercrime and privacy compliance checks.
 2. Trustworthy machine learning, particularly in the realms of robustness, privacy, and their interconnections.
 3. Data-driven privacy and security, with an emphasis on threat intelligence gathering.
 
 My long-term research goal is to discover and understand critical security and privacy issues in cybersystems or AI systems through data-oriented analysis, and to design and develop innovative solutions to address these issues with robust, private guarantees for different real-world applications.
 
 
-You can find my CV here: [Yue Qin's CV](../assets/CV_Yue_Qin_2023.10.5.pdf)
 
 ---
 
@@ -65,16 +64,16 @@ _To appear in Proceedings of ACM Conference on Computer and Communications Secur
 
 - 2023
 
-Vulnerability Intelligence Alignment via Masked Graph Attention Networks.   
+[Vulnerability Intelligence Alignment via Masked Graph Attention Networks.](https://dl.acm.org/doi/pdf/10.1145/3576915.3616686?casa_token=tNYmn2w6IOAAAAAA:oEzwBQBY8SG1jDK2HMsQj53Z5F5EpqUeVO9ZL1qR-w72w8C-lqwzf-gisVqy8WzjLT7wIPdYrifCvw)
 **Yue Qin**, Yue Xiao, Xiaojing Liao.
 _In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate:	19.87%) 
 
 
-Stolen Risks of Models with Security Properties.      
+[Stolen Risks of Models with Security Properties.](https://dl.acm.org/doi/pdf/10.1145/3576915.3616653?casa_token=BvLZCdU8EJEAAAAA:ViEPqBlOr8VZMpnDg7dpLSLyVaKa6F-vOYXLoVHqpygDJFqIWzRJbcDxvVhDb0NMKBeBjdMDRFr_dg)
 **Yue Qin**, Zhuoqun Fu, Chuyun Deng, Xiaojing Liao, Jia Zhang, Haixin Duan. 
 _In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2023._ (Acceptance rate:	19.87%) 
 
-STINMatch: Semi-Supervised Semantic-Topological Iteration Network for Financial Risk Detection via News Label Diffusion.  
+[STINMatch: Semi-Supervised Semantic-Topological Iteration Network for Financial Risk Detection via News Label Diffusion.](https://aclanthology.org/2023.emnlp-main.578.pdf)
 Xurui Li*, **Yue Qin*** (co-first author), Rui Zhu, Tianqianjin Lin, Yongming Fan, Yangyang Kang, Kaisong Song, Fubang Zhap, Changlong Sun, Haixu Tang, Xiaozhong Liu.  _To appear in Proceedings of Empirical Methods in Natural Language Processing (EMNLP) 2023._
 
 
