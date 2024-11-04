@@ -12,11 +12,14 @@ redirect_from:
 Education
 ======
 * B.S. in Xiamen University, 2018
-* Ph.D in Indiana University Bloomington, 2024 (expected)
+* Ph.D in Indiana University Bloomington, 2024 
 
 Work experience
 ======
-* Sep. 2018 - Now: Research Assistant
+* Aug. 2024 - Present: Assistant Professof
+  * Central University of Finance and Economics
+ 
+* Sep. 2018 - Jun. 2024: Research Assistant
   * Indiana University Bloomington
   * Supervisor: Xiaojing Liao
 
@@ -42,6 +45,7 @@ Service
 
 * Review Service 
   > Served as a reviewer
+  * IEEE Transactions on Information Forensics and Security (TIFS), 2023, 2024
 
   * Annual Computer Security Applications Conference (ACSAC) 2022, Articact Evaluation (AE).
 
