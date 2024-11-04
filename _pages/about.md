@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Central University of Finance and Economics. I received my Ph.D. in Computer Science at Indiana University Bloomington, where I had the honor of being supervised by Professor [Xiaojing Liao](https://www.xiaojingliao.com/). 
+I am currently a tenure-track Assistant Professor at the Central University of Finance and Economics. I received my Ph.D. in Computer Science at Indiana University Bloomington, where I was fortunate to be supervised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com/). 
 My primary research interests lie at the intersection of cybersecurity, machine learning, and natural language processing. Specifically, I focus on the following areas:
 
 1. Sociotechnical, with a focus on cybercrime and privacy compliance checks.
-2. Trustworthy machine learning, particularly in the realms of robustness, privacy, and their interconnections.
-3. Data-driven privacy and security, with an emphasis on threat intelligence gathering.
+2. Trustworthy machine learning, particularly in robustness, privacy, and their interconnections.
+3. Data-driven privacy and security, especially for threat intelligence gathering and analysis.
 
-My long-term research goal is to discover and understand critical security and privacy issues in cybersystems or AI systems through data-oriented analysis, and to design and develop innovative solutions to address these issues with robust, private guarantees for different real-world applications.
+My long-term research goal is to discover and understand critical security and privacy issues in cybersystems or AI systems through data-oriented analysis and to design and develop innovative solutions to address these issues with robust, private guarantees for different real-world applications.
 
 
 
