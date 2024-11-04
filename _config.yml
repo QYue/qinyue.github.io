@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yue Qin/Personal Homepage"
 title_separator          : "-"
 # name                     : &name "Yue Qin"
-# description              : &description "a fifth year Ph.D. student"
+# description              : &description ""
 url                      : https://qyue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Qyue/qyue.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Yue Qin"
-  avatar           : "profile.png"
+  avatar           : "talk.jpg"
 #   bio              : "Your biography for the left-hand sidebar"
-#   location         : "Location"
+#   location         : "CUFE"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=tgktdfIAAAAJ"
